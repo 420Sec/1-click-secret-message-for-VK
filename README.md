@@ -1,0 +1,1 @@
+1-click secret message for VK

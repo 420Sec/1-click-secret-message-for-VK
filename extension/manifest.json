@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "content_scripts" : [
+        {
+            "js":["jquery-2.1.1.min.js", "main.js"],
+            "matches":[ "http://vk.com/im", "http://vk.com/im*" ],
+            "run_at":"document_start"
+        }
+    ],
+    "description" : "Instantly create secret messages using onetimesecret.com",
+    "name" : "1-click secret message for VK",
+    "permissions" : ["https://onetimesecret.com/"],
+    "version" : "1.0.0"
+}
