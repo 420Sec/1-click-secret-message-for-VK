@@ -11,4 +11,6 @@
 папки этой, да
 и всё, перезапускаете браузер и у вас будет кнопочка в диалогах
 
-<script id='fbboml2'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=420Sec&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=62;f.width=55;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbboml2');</script>
+DONATE (https://flattr.com) - классный сервис микроплатежей, попробуйте
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=420sec&url=http://github.com/supacoderz/1-click-secret-message-for-VK/&title=1-click-secret-message-for-VK&language=ru&tags=github&category=software)
