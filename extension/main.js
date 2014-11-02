@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    var buttonsource = "<div class='button_blue im_send_cont fl_l' ><button id='extcrypt-button'>OTS</button></div>";
-    $("#im_send_wrap").prepend( buttonsource);
+    var buttonsource = "<div class='button_blue im_send_cont fl_l' style='width: 50px; margin-top: 6px;'><button id='extcrypt-button' style='width: 50px;'>OTS</button></div>";
+    $("#im_user_holder").append(buttonsource);
     $("#extcrypt-button").click(function(){
         $(".im_editable").each(function(index){
             if (!$(this).is(":hidden")){
