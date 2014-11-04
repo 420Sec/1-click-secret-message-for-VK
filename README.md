@@ -14,4 +14,4 @@
 DONATE (https://flattr.com) - классный сервис микроплатежей, попробуйте
 
 (https://flattr.com/profile/420sec) -> 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=420sec&url=http://github.com/supacoderz/1-click-secret-message-for-VK/&title=1-click-secret-message-for-VK&language=ru&tags=github&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=420sec&url=http://github.com/420Sec/1-click-secret-message-for-VK/&title=1-click-secret-message-for-VK&language=ru&tags=github&category=software)
